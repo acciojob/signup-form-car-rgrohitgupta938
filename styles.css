@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+body{
+	margin:20px;
+	padding:10px;
+}
+input{
+	margin:10px;
+}
+select{
+	margin:10px;
+}
